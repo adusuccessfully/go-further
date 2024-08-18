@@ -1,14 +1,19 @@
-#include <stdio.h>
+#包括< stdio.小时>
 
-void mian()
+空面(     ）
 {
-  printf("helloworld!!!");
+  printf       (        “你好，世界！！！”         ）；
 }
 
-roundingNum(int x)
+舍入数( int x )
 {
-  double x = 3.1159;
-  double result = floor(x * pow(10.0, 2.0) + 0.5)/pow(10.0, 2.0);
-  printf("%f四舍五入精确到小数点后两位为：%f\n",x,result);
+  双精度x= 3.1159；
+  double 结果 = Floor ( x * pow          （         10.0   , 2.0           ）+0.5）/ 功率（        10.0，2.0 ）      ；
+  printf \n " ,x,结果 ;    "%f四舍五入准确到小数点后二者为：%f \n “，x，结果) ;
 }
+
+
+/* 解析字符串的技巧 */
+
+  
 
